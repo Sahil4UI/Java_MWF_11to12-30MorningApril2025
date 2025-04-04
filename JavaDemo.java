@@ -34,6 +34,7 @@ public class JavaDemo {
 	default->System.out.println("Invalid Order");
 		}
 //		after break, you will exit from switch block
+		sc.close();
 		
 	}
 
