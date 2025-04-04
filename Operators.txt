@@ -1,0 +1,29 @@
+
+
+
+
+Operators  based on Operand:
+1.unary ++,- -
+2.binary Operators:
+.Arithmetical +,-,/,*,%
+.comparison >,<,>=,<=,!=,==
+.logical &&,||,!
+.bitwise logical & , | , ~
+    bitwise shifting. <<,>>
+.Assignment Operators : +=,-=,=,/=,*=,%=,&=,|=
+
+3.ternary Operator ?
+
+
+Career:
+IT Sector => Skills
+
+Mobile App Development =>
+Android => java + kotlin +ANdroid =>Apps
+IOS => swift 
+
+
+Cross Platform Mobile App Development
+=>Flutter
+Google => Flutter Framework -
+Cross platform Apps => web,desktop,mobile(android and IOS),smart watches
